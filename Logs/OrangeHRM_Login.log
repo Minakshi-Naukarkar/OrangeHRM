@@ -1,0 +1,43 @@
+2026-03-13 21:59:48,997 - test_OrangeHRM_Login_DDT_003 - INFO - OrangeHRM Login page Loaded
+2026-03-13 21:59:48,997 - test_OrangeHRM_Login_DDT_003 - INFO - Entering Username=Admin
+2026-03-13 21:59:51,130 - test_OrangeHRM_Login_DDT_003 - INFO - Entering Password=admin123
+2026-03-13 21:59:51,234 - test_OrangeHRM_Login_DDT_003 - INFO - Clicking Login Button
+2026-03-13 21:59:57,095 - test_OrangeHRM_Login_DDT_003 - INFO - Login Successful for Username = Admin
+2026-03-13 21:59:57,095 - test_OrangeHRM_Login_DDT_003 - INFO - Screenshot saved: Screenshots\test_OrangeHRM_Login_DDT_003_pass_{username}.png
+2026-03-13 21:59:57,349 - test_OrangeHRM_Login_DDT_003 - INFO - Clicking Menu Button
+2026-03-13 21:59:57,495 - test_OrangeHRM_Login_DDT_003 - INFO - Clicking Logout Button
+2026-03-13 22:00:00,784 - test_OrangeHRM_Login_DDT_003 - INFO - Test Passed for Username = Admin
+2026-03-13 22:00:00,784 - test_OrangeHRM_Login_DDT_003 - INFO - Test Case Passed
+2026-03-13 22:00:01,079 - test_OrangeHRM_Login_DDT_003 - INFO - Test Data: Username = Admin1, Password = admin123, Expected Result = Login Failed
+2026-03-13 22:00:01,080 - test_OrangeHRM_Login_DDT_003 - INFO - Test Case: Verify OrangeHRM Login
+2026-03-13 22:00:02,597 - test_OrangeHRM_Login_DDT_003 - INFO - OrangeHRM Login page Loaded
+2026-03-13 22:00:02,598 - test_OrangeHRM_Login_DDT_003 - INFO - Entering Username=Admin1
+2026-03-13 22:00:05,362 - test_OrangeHRM_Login_DDT_003 - INFO - Entering Password=admin123
+2026-03-13 22:00:07,295 - test_OrangeHRM_Login_DDT_003 - INFO - Clicking Login Button
+2026-03-13 22:00:20,879 - test_OrangeHRM_Login_DDT_003 - ERROR - Login Failed for Username = Admin1
+2026-03-13 22:00:20,879 - test_OrangeHRM_Login_DDT_003 - INFO - Screenshot saved: Screenshots\test_OrangeHRM_Login_DDT_003_fail_{username}.png
+2026-03-13 22:00:21,011 - test_OrangeHRM_Login_DDT_003 - INFO - Test Passed for Username = Admin1
+2026-03-13 22:00:21,012 - test_OrangeHRM_Login_DDT_003 - INFO - Test Case Passed
+2026-03-13 22:00:21,162 - test_OrangeHRM_Login_DDT_003 - INFO - Test Data: Username = Admin, Password = admin125, Expected Result = Login Failed
+2026-03-13 22:00:21,162 - test_OrangeHRM_Login_DDT_003 - INFO - Test Case: Verify OrangeHRM Login
+2026-03-13 22:00:21,892 - test_OrangeHRM_Login_DDT_003 - INFO - OrangeHRM Login page Loaded
+2026-03-13 22:00:21,893 - test_OrangeHRM_Login_DDT_003 - INFO - Entering Username=Admin
+2026-03-13 22:00:23,025 - test_OrangeHRM_Login_DDT_003 - INFO - Entering Password=admin125
+2026-03-13 22:00:23,159 - test_OrangeHRM_Login_DDT_003 - INFO - Clicking Login Button
+2026-03-13 22:00:33,624 - test_OrangeHRM_Login_DDT_003 - ERROR - Login Failed for Username = Admin
+2026-03-13 22:00:33,625 - test_OrangeHRM_Login_DDT_003 - INFO - Screenshot saved: Screenshots\test_OrangeHRM_Login_DDT_003_fail_{username}.png
+2026-03-13 22:00:33,765 - test_OrangeHRM_Login_DDT_003 - INFO - Test Passed for Username = Admin
+2026-03-13 22:00:33,765 - test_OrangeHRM_Login_DDT_003 - INFO - Test Case Passed
+2026-03-13 22:00:33,876 - test_OrangeHRM_Login_DDT_003 - INFO - Test Data: Username = Admin1, Password = admin126, Expected Result = Login Failed
+2026-03-13 22:00:33,876 - test_OrangeHRM_Login_DDT_003 - INFO - Test Case: Verify OrangeHRM Login
+2026-03-13 22:00:34,870 - test_OrangeHRM_Login_DDT_003 - INFO - OrangeHRM Login page Loaded
+2026-03-13 22:00:34,871 - test_OrangeHRM_Login_DDT_003 - INFO - Entering Username=Admin1
+2026-03-13 22:00:35,987 - test_OrangeHRM_Login_DDT_003 - INFO - Entering Password=admin126
+2026-03-13 22:00:36,077 - test_OrangeHRM_Login_DDT_003 - INFO - Clicking Login Button
+2026-03-13 22:00:46,558 - test_OrangeHRM_Login_DDT_003 - ERROR - Login Failed for Username = Admin1
+2026-03-13 22:00:46,558 - test_OrangeHRM_Login_DDT_003 - INFO - Screenshot saved: Screenshots\test_OrangeHRM_Login_DDT_003_fail_{username}.png
+2026-03-13 22:00:46,719 - test_OrangeHRM_Login_DDT_003 - INFO - Test Passed for Username = Admin1
+2026-03-13 22:00:46,719 - test_OrangeHRM_Login_DDT_003 - INFO - Test Case Passed
+2026-03-13 22:00:46,806 - test_OrangeHRM_Login_DDT_003 - INFO - Test Results: ['Pass', 'Pass', 'Pass', 'Pass']
+2026-03-13 22:00:46,807 - test_OrangeHRM_Login_DDT_003 - INFO - Test Case test_OrangeHRM_Login_DDT_003 Completed
+2026-03-13 22:00:46,807 - test_OrangeHRM_Login_DDT_003 - INFO - =============================================================

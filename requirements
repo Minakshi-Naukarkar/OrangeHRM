@@ -1,0 +1,12 @@
+selenium
+pytest
+pytest-xdist
+pytest-html
+pytest-sugar
+openpyxl
+Faker
+pytest-cov
+pytest-rerunfailures
+allure-pytest
+pytest-dependency
+pytest-order

@@ -1,0 +1,15 @@
+[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:74 Test Case: Verify OrangeHRM Login
+[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:76 Navigated to OrangeHRM Login Page
+[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:78 Entering Username
+[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:74 Test Case: Verify OrangeHRM Login
+[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:76 Navigated to OrangeHRM Login Page
+[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:78 Entering Username
+[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:80 Entering Password
+[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:82 Clicking Login Button
+[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:84 Verifying Login
+[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:86 Test Passed
+[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:87 Screenshot saved: Screenshots\test_OrangeHRM_Login_002_pass.png
+[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:90 Clicking Menu Button
+[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:92 Clicking Logout Button
+[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:101 Test Case Completed
+[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:102 ============================================================
