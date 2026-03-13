@@ -1,3 +1,0 @@
-[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:74 Test Case: Verify OrangeHRM Login
-[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:76 Navigated to OrangeHRM Login Page
-[32mINFO    [0m C:\Users\Admin\OneDrive\Desktop\Software Testing\AUTOMATION TESTING\Orange_HRM_Project\testCases\test_OrangeHRM_Login_001.py:test_OrangeHRM_Login_001.py:78 Entering Username
