@@ -72,4 +72,5 @@ class Test_OrangeHRM_Login_DDT_002:
         self.log.info("Test Case test_OrangeHRM_Login_DDT_003 Completed")
         self.log.info("=============================================================")
 
+
 # pytest -v -s -n=auto --html=Html_Reports\OrangeHRM_Login.html --alluredir=Allure_Reports --browser chrome
