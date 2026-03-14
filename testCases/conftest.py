@@ -18,7 +18,11 @@ def driver_setup(request):
     elif browser == "firefox":
         print("Launching Firefox browser")
         from selenium import webdriver
-        driver = webdriver.Firefox()
+
+        options = webdriver.FirefoxOptions()
+        options.add_argument("--headless")
+
+        driver = webdriver.Firefox(options=options)
 
     elif browser == "edge":
         print("Launching Edge browser")
